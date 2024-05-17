@@ -4,8 +4,10 @@ Bu belge, çeşitli uzmanlık seviyelerindeki adayları değerlendirmek amacıyl
 
 Daha fazla içerik için https://github.com/Tannyll/dotnet_mulakat_sorulari
 
-***Bu hazıladığım sorular sadece teknik sorulardır bunları bilmeniz mülakatı geçeceğiniz anlamına gelmez. ***
+***Bu hazıladığım sorular sadece teknik sorulardır bunları bilmeniz mülakatı geçeceğiniz anlamına gelmez.***
+
 ***Bu değerli bilgileri kitap okur gibi anlatmamalısınız deneysel çalışmalar yapmayı unutma***
+
 ## Temel
 
 1. **.NET nedir?**
