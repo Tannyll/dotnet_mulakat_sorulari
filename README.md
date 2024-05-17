@@ -8,7 +8,7 @@ Daha fazla içerik için https://github.com/Tannyll/dotnet_mulakat_sorulari
 ***Bu değerli bilgileri kitap okur gibi anlatmamalısınız deneysel çalışmalar yapmayı unutma***
 ## Temel
 
-1. **.NET nedir?
+1. **.NET nedir?**
 2. **Common Language Runtime (CLR) açıklayabilirmisin?**
 3. **Yönetilen ve yönetilemeyen kod arasındaki fark nedir?**
 4. **C# programının temel yapısını açıklar.**
