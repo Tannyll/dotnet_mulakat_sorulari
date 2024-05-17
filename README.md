@@ -78,7 +78,7 @@ Daha fazla içerik için https://github.com/Tannyll/dotnet_mulakat_sorulari
 
 ### 1. .NET nedir?
 
-**Answer:** .NET is a comprehensive development platform used for building a wide variety of applications, including web, mobile, desktop, and gaming. It supports multiple programming languages, such as C#, F#, and Visual Basic. .NET provides a large class library called Framework Class Library (FCL) and runs on a Common Language Runtime (CLR) which offers services like memory management, security, and exception handling.
+**Cevap:** .NET, web , mobil, masaüstü ve oyun dahil olmak üzere çok çeşitli uygulamalar geliştirmek için kullanılan kapsamlı bir geliştirme platformudur. C#,F# ve VB gibi biden fazla programlama diline desktekler. .NET, Framework Class Library (FCL) adı verilen büyük bir class kütüphanesi sağlar ve bellek yönetimi, güvenlik ve Exception Handling hizmetleri sunan bir Common Language Runtime (CLR) üzerinde çalışır.
 
 ### 2. Common Language Runtime (CLR) açıklayabilirmisin?
 
