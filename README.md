@@ -23,55 +23,55 @@ Daha fazla içerik için https://github.com/Tannyll/dotnet_mulakat_sorulari
 
 ## Orta Seviye
 
-11. **Explain polymorphism and its types in C#.**
-12. **What are delegates and how are they used in C#?**
-13. **Describe what LINQ is and give an example of where it might be used.**
-14. **What is the difference between an abstract class and an interface?**
-15. **How do you manage memory in .NET applications?**
-16. **Explain the concept of threading in .NET.**
-17. **What is async/await and how does it work?**
-18. **Describe the Entity Framework and its advantages.**
-19. **What are extension methods and where would you use them?**
-20. **How do you handle exceptions in a method that returns a Task?**
+11. **C#'ta Polymorphism türlerini açıkla.**
+12. **C#'ta Delegate'ler nedir ve nasıl kullanılır?**
+13. **LINQ'nun ne olduğunu ve nerede kullanılabileceğine dair bir örnek ver.**
+14. **Abstract class ve Interface arasındaki fark nedir?**
+15. **.NET uygulamalarında Memory'yi nasıl yönetiriz.**
+16. **.NET'te Threading kavramını açıklayabilirmisin?**
+17. **Async/Await nedir nasıl çalışır?**
+18. **Entity Framework'ü ve avantajlarını açıklayın.**
+19. **Extension Method yöntemleri nelerdir ve bunları nerede kullanırsınız?**
+20. **Task döndüren bir metod ile Exception'ları nasıl ele alırısınız?**
 
 ## İleri Seviye
 
-21. **What is reflection in .NET and how would you use it?**
-22. **Can you explain the concept of middleware in ASP.NET Core?**
-23. **Describe the Dependency Injection (DI) pattern and how it's implemented in .NET Core.**
-24. **What is the purpose of the .NET Standard?**
-25. **Explain the differences between .NET Core, .NET Framework, and Xamarin.**
-26. **How does garbage collection work in .NET and how can you optimize it?**
-27. **What are attributes in C# and how can they be used?**
-28. **Can you describe the process of code compilation in .NET?**
-29. **What is the Global Assembly Cache (GAC) and when should it be used?**
-30. **How would you secure a web application in ASP.NET Core?**
+21. **.NET'te Reflection nedir ve bunu nasıl kullanırız.**
+22. **ASP.NET Core'da middleware kavramını açıklayabilir misiniz?**
+23. **Dependency Injection (DI) modelini ve .NET Core'da nasıl uygulandığını açıklayın.**
+24. **.NET Standardının amacı nedir?**
+25. **.NET Core, .NET Framework ve Xamarin arasındaki farkları açıklayın.**
+26. **.NET'te Garbage Collection (GC) nasıl çalışır ve bunu nasıl optimize edebiliriz?**
+27. **C#'ta Attribute'ler nelerdir ve nasıl kullanabiliriz?**
+28. **.NET'te kod derleme sürecini açıklayabilirmisiniz?**
+29. **Global Assembly Cache (GAC) nedir ve ne zaman kullanılmalıdır?**
+30. **ASP.NET Core'da bir web uygulamasının güvenliğini nasıl sağlarsınız?**
 
 ## Framework-Özel
 
-31. **What is MVC (Model-View-Controller)?**
-32. **Can you explain the difference between Razor Pages and MVC in ASP.NET Core?**
-33. **How do you perform validations in ASP.NET Core?**
-34. **Describe SignalR and its use cases.**
-35. **What are the benefits of using Blazor over traditional web technologies?**
-36. **How do you implement Web API versioning in ASP.NET Core?**
-37. **Explain the role of IApplicationBuilder in ASP.NET Core.**
-38. **What are Areas in ASP.NET Core and how do you use them?**
-39. **How do you manage sessions in ASP.NET Core applications?**
-40. **Describe how to implement caching in ASP.NET Core.**
+31. **MVC (Model-View-Controller) nedir?**
+32. **ASP.NET Core'da Razor Pages ve MVC arasındaki farkı açıklayabilir misiniz?**
+33. **ASP.NET Core'da Validations işlemleri nasıl gerçekleşir?**
+34. **SignalR ve kullanım alanlarını tanımlayınız.**
+35. **Blazor kullanımının geleneksel web teknolojilerine göre avantajları nelerdir?**
+36. **ASP.NET Core'da Web API versiyonlama nasıl uygulanır?**
+37. **ASP.NET Core'da IApplicationBuilder'ın rolünü açıklayın.**
+38. **ASP.NET Core'da Area nedir ve nasıl kullanırız?**
+39. **ASP.NET Core'da Session'ları nasıl yönetiriz?**
+40. **ASP.NET Core'da Caching nasıl uygulanacağını açıklayınız?**
 
 ## Test & En iyi Pratikler
 
-41. **What is Unit Testing in .NET?**
-42. **How do you mock dependencies in unit tests using .NET?**
-43. **Can you explain SOLID principles?**
-44. **What is Continuous Integration/Continuous Deployment (CI/CD) and how does it apply to .NET development?**
-45. **How do you ensure your C# code is secure?**
-46. **What are some common performance issues in .NET applications and how do you address them?**
-47. **Describe the Repository pattern and its benefits.**
-48. **How do you handle database migrations in Entity Framework?**
-49. **What tools do you use for debugging and profiling .NET applications?**
-50. **How do you stay updated with the latest .NET technologies and practices?**
+41. **.NET'te Unit Testler nedir?**
+42. **.NET kullanarak Unit Testlerde bağımlılıkları nasıl taklit edersiniz?**
+43. **SOLID presiplerini açıklayınız?**
+44. **Continuous Integration/Continuous Deployment (CI/CD)  nedir ve .NET geliştirme için nasıl uygulanır?**
+45. **C# kodunuzun güvenli olduğuna nasıl emin olursunuz?**
+46. **.NET uygulamalarındaki bazı yaygın performans sorunları nelerdir ve bunları nasıl ele alırsınız?**
+47. **Repository Pattern'in faydalarını açıklayınız.**
+48. **Entity Framework database migrations olaylarını nasıl ele alırsınız?**
+49. **.NET uygulamalarındaki Debug için ve profil oluşturmak için hangi araçları kullanıyorsunuz?**
+50. **En son .NET teknolojileri ve uygulamaları ile nasıl güncel kalıyorsunuz?**
 
     
 ## Temel
